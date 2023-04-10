@@ -1,0 +1,7 @@
+1. Open repo in github
+
+2. add contributor u or d
+
+3. clone repo in your local machine
+
+4. create branch u and d
